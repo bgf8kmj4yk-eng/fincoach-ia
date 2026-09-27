@@ -1,0 +1,101 @@
+Date,Description,Montant,Type,Categorie
+2026-06-03,Salaire Mensuel,2750.0,Revenu,Revenu
+2026-06-03,Loyer Appartement,-850.0,Dépense,Logement & Charges
+2026-06-05,Virement PEA - ETF MSCI World,-400.0,Epargne,Investissement & Epargne
+2026-06-05,Virement Livret A - Épargne Sécurité,-200.0,Epargne,Investissement & Epargne
+2026-06-29,Courses Bio - Biocoop,-72.73,Dépense,Alimentation
+2026-06-30,Marché Hebdomadaire,-33.59,Dépense,Alimentation
+2026-07-01,Salaire Mensuel,2850.0,Revenu,Revenu
+2026-07-03,Loyer Appartement,-850.0,Dépense,Logement & Charges
+2026-07-04,Prime de Performance,474.68,Revenu,Revenu
+2026-07-05,Virement Livret A - Épargne Sécurité,-239.52,Epargne,Investissement & Epargne
+2026-07-05,Abonnement Spotify Premium,-8.34,Dépense,Abonnements
+2026-07-05,Virement Livret A - Épargne Sécurité,-200.0,Epargne,Investissement & Epargne
+2026-07-05,Virement PEA - ETF MSCI World,-400.0,Epargne,Investissement & Epargne
+2026-07-06,Électricité & Gaz - EDF,-112.39,Dépense,Logement & Charges
+2026-07-07,Marché Hebdomadaire,-39.58,Dépense,Alimentation
+2026-07-08,Remboursement Santé,53.97,Revenu,Revenu
+2026-07-09,Cadeau Anniversaire,-51.96,Dépense,Shopping & Perso
+2026-07-10,Charges de Copropriété,-51.46,Dépense,Logement & Charges
+2026-07-10,Commandes Amazon (Maison),-41.39,Dépense,Shopping & Perso
+2026-07-11,Prime de Performance,451.06,Revenu,Revenu
+2026-07-12,Courses Supermarché Carrefour,-94.45,Dépense,Alimentation
+2026-07-12,Courses Supermarché Carrefour,-94.97,Dépense,Alimentation
+2026-07-12,Restaurant Le Bistrot,-66.28,Dépense,Sorties & Plaisirs
+2026-07-13,Coiffeur / Esthétique,-51.77,Dépense,Shopping & Perso
+2026-07-15,Assurance Habitation,-34.37,Dépense,Logement & Charges
+2026-07-15,Coiffeur / Esthétique,-35.96,Dépense,Shopping & Perso
+2026-07-19,Commandes Amazon (Maison),-48.79,Dépense,Shopping & Perso
+2026-07-19,Concert / Théâtre,-50.78,Dépense,Sorties & Plaisirs
+2026-07-20,Week-end Escapade,-120.28,Dépense,Sorties & Plaisirs
+2026-07-23,Courses Supermarché Carrefour,-104.84,Dépense,Alimentation
+2026-07-25,Abonnement Salle de Sport,-37.85,Dépense,Abonnements
+2026-07-27,Prime de Performance,465.9,Revenu,Revenu
+2026-07-27,Virement PEA - ETF MSCI World,-442.41,Epargne,Investissement & Epargne
+2026-07-28,Loyer Appartement,-631.21,Dépense,Logement & Charges
+2026-07-28,Week-end Escapade,-121.35,Dépense,Sorties & Plaisirs
+2026-07-29,Assurance Habitation,-21.04,Dépense,Logement & Charges
+2026-07-30,Week-end Escapade,-120.68,Dépense,Sorties & Plaisirs
+2026-08-01,Investissement Crypto / SCPI,-103.68,Epargne,Investissement & Epargne
+2026-08-01,Concert / Théâtre,-59.46,Dépense,Sorties & Plaisirs
+2026-08-01,Courses Bio - Biocoop,-65.3,Dépense,Alimentation
+2026-08-01,Achat Vêtements - Zara,-77.33,Dépense,Shopping & Perso
+2026-08-02,Salaire Mensuel,2750.0,Revenu,Revenu
+2026-08-03,Assurance Habitation,-27.04,Dépense,Logement & Charges
+2026-08-03,Loyer Appartement,-850.0,Dépense,Logement & Charges
+2026-08-05,Virement PEA - ETF MSCI World,-400.0,Epargne,Investissement & Epargne
+2026-08-05,Abonnement Netflix,-19.69,Dépense,Abonnements
+2026-08-05,Virement Livret A - Épargne Sécurité,-200.0,Epargne,Investissement & Epargne
+2026-08-05,Électricité & Gaz - EDF,-99.51,Dépense,Logement & Charges
+2026-08-07,Forfait Mobile & Fibre,-38.14,Dépense,Abonnements
+2026-08-08,Week-end Escapade,-108.99,Dépense,Sorties & Plaisirs
+2026-08-08,Boulangerie du Coin,-9.37,Dépense,Alimentation
+2026-08-10,Prime de Performance,410.13,Revenu,Revenu
+2026-08-11,Boulangerie du Coin,-10.83,Dépense,Alimentation
+2026-08-11,Virement Livret A - Épargne Sécurité,-151.61,Epargne,Investissement & Epargne
+2026-08-12,Électricité & Gaz - EDF,-108.09,Dépense,Logement & Charges
+2026-08-13,Achat Vêtements - Zara,-91.37,Dépense,Shopping & Perso
+2026-08-14,Restaurant Le Bistrot,-46.4,Dépense,Sorties & Plaisirs
+2026-08-14,Abonnement Salle de Sport,-22.24,Dépense,Abonnements
+2026-08-15,Achat Vêtements - Zara,-90.02,Dépense,Shopping & Perso
+2026-08-17,Achat Vêtements - Zara,-76.31,Dépense,Shopping & Perso
+2026-08-19,Boulangerie du Coin,-10.61,Dépense,Alimentation
+2026-08-19,Courses Supermarché Carrefour,-110.63,Dépense,Alimentation
+2026-08-19,Charges de Copropriété,-55.2,Dépense,Logement & Charges
+2026-08-20,Charges de Copropriété,-71.2,Dépense,Logement & Charges
+2026-08-21,Cadeau Anniversaire,-43.35,Dépense,Shopping & Perso
+2026-08-22,Charges de Copropriété,-48.43,Dépense,Logement & Charges
+2026-08-24,Achat Vêtements - Zara,-57.95,Dépense,Shopping & Perso
+2026-08-26,Remboursement Santé,51.77,Revenu,Revenu
+2026-08-26,Abonnement Salle de Sport,-38.22,Dépense,Abonnements
+2026-08-30,Courses Supermarché Carrefour,-124.74,Dépense,Alimentation
+2026-08-30,Coiffeur / Esthétique,-52.18,Dépense,Shopping & Perso
+2026-08-30,Week-end Escapade,-173.81,Dépense,Sorties & Plaisirs
+2026-08-31,Abonnement Spotify Premium,-10.72,Dépense,Abonnements
+2026-09-01,Courses Supermarché Carrefour,-101.68,Dépense,Alimentation
+2026-09-02,Virement PEA - ETF MSCI World,-296.45,Epargne,Investissement & Epargne
+2026-09-04,Concert / Théâtre,-61.37,Dépense,Sorties & Plaisirs
+2026-09-05,Virement Livret A - Épargne Sécurité,-149.46,Epargne,Investissement & Epargne
+2026-09-06,Vente objet occasion,49.37,Revenu,Revenu
+2026-09-06,Abonnement Salle de Sport,-24.61,Dépense,Abonnements
+2026-09-06,Virement Livret A - Épargne Sécurité,-143.81,Epargne,Investissement & Epargne
+2026-09-07,Investissement Crypto / SCPI,-129.96,Epargne,Investissement & Epargne
+2026-09-07,Loyer Appartement,-941.94,Dépense,Logement & Charges
+2026-09-08,Pharmacie & Soins,-19.03,Dépense,Shopping & Perso
+2026-09-08,Abonnement Spotify Premium,-12.32,Dépense,Abonnements
+2026-09-09,Verres entre amis - Bar,-26.48,Dépense,Sorties & Plaisirs
+2026-09-09,Abonnement Netflix,-11.57,Dépense,Abonnements
+2026-09-10,Marché Hebdomadaire,-49.17,Dépense,Alimentation
+2026-09-11,Commandes Amazon (Maison),-30.98,Dépense,Shopping & Perso
+2026-09-13,Loyer Appartement,-652.05,Dépense,Logement & Charges
+2026-09-14,Verres entre amis - Bar,-26.31,Dépense,Sorties & Plaisirs
+2026-09-17,Prime de Performance,522.98,Revenu,Revenu
+2026-09-18,Courses Bio - Biocoop,-59.94,Dépense,Alimentation
+2026-09-18,Marché Hebdomadaire,-46.65,Dépense,Alimentation
+2026-09-18,Commandes Amazon (Maison),-38.73,Dépense,Shopping & Perso
+2026-09-19,Verres entre amis - Bar,-40.24,Dépense,Sorties & Plaisirs
+2026-09-19,Remboursement Santé,39.08,Revenu,Revenu
+2026-09-19,Restaurant Le Bistrot,-52.85,Dépense,Sorties & Plaisirs
+2026-09-21,Restaurant Le Bistrot,-71.01,Dépense,Sorties & Plaisirs
+2026-09-22,Restaurant Le Bistrot,-69.25,Dépense,Sorties & Plaisirs
+2026-09-27,Abonnement Spotify Premium,-11.18,Dépense,Abonnements
