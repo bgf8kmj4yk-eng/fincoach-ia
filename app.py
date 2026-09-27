@@ -87,7 +87,7 @@ st.markdown("""
         padding: 10px 0 20px 0;
     }
     .sidebar-header h2 {
-        color: #1E293B;
+        color: #FFFFFF;
         font-weight: 800;
         margin-bottom: 0px;
     }
@@ -163,9 +163,13 @@ def get_default_data() -> pd.DataFrame:
 # ==============================================================================
 
 with st.sidebar:
+    if os.path.exists("logo.png"):
+        st.image("logo.png", use_container_width=True)
+    else:
+        st.image("logo.png", use_container_width=True)
+
     st.markdown("""
     <div class="sidebar-header">
-        <h2>💰 FinCoach IA</h2>
         <p>Assistant de Gestion Budgétaire</p>
     </div>
     """, unsafe_allow_html=True)
@@ -531,10 +535,10 @@ with col_chart_sim:
 
     fig_area.update_layout(
         height=380,
-        margin=dict(t=20, b=20, l=10, r=10),
-        xaxis=dict(title="Temps Écouler (Années)", dtick=5),
+        margin=dict(t=20, b=40, l=10, r=10),
+        xaxis=dict(title="Temps Écoulé (Années)", dtick=5),
         yaxis=dict(title="Valeur du Portefeuille (€)"),
-        legend=dict(orientation="h", yanchor="bottom", y=-0.22, xanchor="center", x=0.5),
+        legend=dict(orientation="h", yanchor="bottom", y=-0.35, xanchor="center", x=0.5),
         hovermode="x unified"
     )
 
